@@ -13,7 +13,7 @@ const Footer = () => {
       <div className='gpt3__footer-links'>
         <div className='gpt3__footer-links_logo'>
           <img src={gpt3Logo} alt="logo"/>
-          <p>Crechterwoord K12 182 DK Alknjkcb, All Rights Reserved</p>
+          <p>13 Rainbow rd. A1A A1A, All Rights Reserved</p>
         </div>
         <div className='gpt3__footer-links_div'>
           <h4>Links</h4>
@@ -30,9 +30,9 @@ const Footer = () => {
         </div>
         <div className='gpt3__footer-links_div'>
           <h4>Get in Touch</h4>
-          <p>Crechterwoord K12 182 DK Alknjkcb</p>
+          <p>13 Rainbow rd. A1A A1A</p>
           <p>085-132567</p>
-          <p>info@payme.net</p>
+          <p>timothyrleung@gmail.com</p>
         </div>
       </div>
 

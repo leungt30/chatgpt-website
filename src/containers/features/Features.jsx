@@ -4,20 +4,20 @@ import './features.css';
 
 const featuresData = [
   {
-  title:"Improving end distrusts instantly",
-  text: "From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded."
+  title:"Multi-Modal capabilities",
+  text: "ChatGPT-3 respond to various forms of input, including text, images, and speech."
 },
 {
-  title:"Become the tended active",
-  text: "Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to."
+  title:"Flexible",
+  text: "ChatGPT can do anything from translation, question answering, and text generation"
 },
 {
-  title:"Message or am nothing",
-  text: "Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address."
+  title:"Large sets of training",
+  text: "Trained from massive amounts of data until 2021"
 },
 {
-  title:"Really boy law county",
-  text: "Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush."
+  title:"Fine tuning",
+  text: "ChatGPT can be specialized to complete specific tasks such as customer service."
 }
 
 ]

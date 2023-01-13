@@ -11,13 +11,13 @@ const Blog = () => {
       </div>
       <div className='gpt3__blog-container'>
         <div className='gpt3__blog-container_groupA'> 
-          <Article imgUrl={blog01} date="Sep 26, 2021" title="GPT-3 and Open  AI is the future. Let us exlore how it is?"/>
+          <Article imgUrl={blog01} date="Sep 26, 2021" title="Revolutionizing Customer Service: How ChatGPT is Changing the Game"/>
         </div>
         <div className='gpt3__blog-container_groupB'> 
-          <Article imgUrl={blog02} date="Sep 26, 2021" title="GPT-3 and Open  AI is the future. Let us exlore how it is?"/>
-          <Article imgUrl={blog03} date="Sep 26, 2021" title="GPT-3 and Open  AI is the future. Let us exlore how it is?"/>
-          <Article imgUrl={blog04} date="Sep 26, 2021" title="GPT-3 and Open  AI is the future. Let us exlore how it is?"/>
-          <Article imgUrl={blog05} date="Sep 26, 2021" title="GPT-3 and Open  AI is the future. Let us exlore how it is?"/>
+          <Article imgUrl={blog02} date="Sep 26, 2021" title="The Power of Language: How ChatGPT is Advancing NLP and Text Generation"/>
+          <Article imgUrl={blog03} date="Sep 26, 2021" title="The Future of Education: Using ChatGPT for Personalized Tutoring and Content Creation"/>
+          <Article imgUrl={blog04} date="Sep 26, 2021" title="How ChatGPT is Transforming the Business World: From Sales to Marketing"/>
+          <Article imgUrl={blog05} date="Sep 26, 2021" title="ChatGPT and the Future of AI: The Capabilities and Potential of this Advanced Language Model"/>
         </div>
 
       </div>
