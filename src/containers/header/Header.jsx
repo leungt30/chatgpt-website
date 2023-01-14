@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className='gpt3__header section__padding' id='home'>
       <div className='gpt3__header-content'>
-        <h1 className='gradient__text'>Let’s Build Something amazing with GPT-3 OpenAI</h1>
+        <h1 className='gradient__text-animated'>Let’s Build Something amazing with GPT-3 OpenAI</h1>
         <p>	ChatGPT is the ultimate language companion, an advanced language model that can understand and generate human-like text that will leave you amazed. Imagine having a conversation that feels like talking to a real person, or having a story written just for you, or even getting a summary of a long document in seconds. Give ChatGPT a try and experience the power of language like never before. </p>
         <div className='gpt3__header-content__input'>
           <input type='email' placeholder='Your Email Address' />
